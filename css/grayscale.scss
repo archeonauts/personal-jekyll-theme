@@ -261,8 +261,9 @@ a {
         display: block;
         max-width: 100%;
         height: auto;
-        margin: 25px auto;
+        margin: 50px auto;
         border: 1px none $font-color;
+		border-radius:100%;
     }
     /* Added in { Personal } */
     ul,
