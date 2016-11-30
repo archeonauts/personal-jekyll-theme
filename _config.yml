@@ -185,13 +185,13 @@ social:
 
 pages_list:
   Vesti: 'latest-post'
-  About: 'about'
+  O S&SF: 'about'
   # Timeline: 'timeline'
-  Contact: 'contact'
+  Kontakt: 'contact'
 
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTORS", "scripts"]
+exclude: ["LICENSE", "README.md", "THEME CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
