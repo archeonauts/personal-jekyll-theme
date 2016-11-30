@@ -18,7 +18,8 @@ Mihajlo Vitezović
 </small>
 
 <small>
-<strong>Program Authors:</strong>
+<strong>Jekyll Theme by:</strong>
+<a href="https://github.com/PanosSakkos">Panos Sakkos.</a>
 
 ---------------
 
@@ -33,3 +34,12 @@ Milan Ćirković
 Dragoljub Igrošanac
 Mihajlo Vitezović
 </small>
+
+<small>
+<strong>Logo dizajn:</strong>
+Mihajlo Vitezović
+</small>
+
+<small>
+<strong>Tema za Jekyll:</strong>
+<a href="https://github.com/PanosSakkos">Panos Sakkos.</a>
