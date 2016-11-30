@@ -7,7 +7,7 @@
 
         {{ page.content | markdownify }}
 
-        {% assign post = site.posts.first %}
+        {% for post in site.posts limit:5 %}
         <h4> <strong> {{ post.date | date_to_string }} </strong>
           <small>.
             <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
@@ -19,6 +19,7 @@
         </h4>
 
         {{ post.content | markdownify | truncatewords: site.post-preview-words }}
+		{% endfor %}
 
         <h4><a href="{{site.baseurl}}/blog/">Arhiva</a></h4>
 
