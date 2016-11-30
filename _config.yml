@@ -16,7 +16,7 @@ baseurl: /snsf
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-88273905-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "snsf"
 
 syntax-highlight: True
 
@@ -153,7 +153,7 @@ social:
 #  - title: "twitter"
 #    url: "https://twitter.com/"
   - title: "youtube"
-    url: "www.youtube.com"
+    url: "https://youtube.com"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
 #  - title: "bitcoin"
