@@ -96,12 +96,6 @@ a {
     }
 }
 
-.postimg {
-    border-style: none;
-    border-radius: 100px;
-	margin:25px;
-    }
-
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba($font-color, 0.3);
@@ -267,8 +261,8 @@ a {
         display: block;
         max-width: 100%;
         height: auto;
-        margin: 0 auto;
-        border: 1px solid $font-color;
+        margin: 25px auto;
+        border: 1px none $font-color;
     }
     /* Added in { Personal } */
     ul,
